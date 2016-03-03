@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+	.top-panel-bg {
+	height: 132px;
+}
+
+.logo {
+	height: 66px;
+	float: none;
+}
+
+#upper-dropdown {
+	float: none;
+	margin: auto;
+	margin-top: 15px;
+}
+
+}

@@ -1,0 +1,158 @@
+@media screen and (max-width: 980px) {
+
+.top-panel {
+	max-width: 100%;
+}
+
+.left-part-cut {
+	height: auto;
+}
+
+.navigation-panel {
+	max-width: 100%;
+	margin: 0;
+	position: relative;
+}
+
+.navigation-logo {
+	display: none;
+}
+
+.switcher {
+	display: block;
+}
+
+.navigation-list {
+	display: none;
+	margin: auto;
+	float: none;
+	width: 150px;
+	text-align: center;
+}
+
+.navigation-list li {
+	float: none;
+	border: none;
+}
+
+.navigation-list li:after {
+	display: none;
+}
+
+.quicklinks-menu {
+	display: none;
+	width: 200px;
+	position: static;
+	height: 132px;
+	margin: auto;
+	float: none;
+}
+
+#quicklinks-menu-dropdown {
+	display: block;
+	padding: 0px 10px;
+	height: 66px;
+}
+
+.quicklinks	{
+	height: 66px;
+	display: block;
+	text-align: center;
+}
+
+.search-panel {
+	width: 90%;
+}
+
+#search-input {
+	width: 270px;
+}
+
+.content {
+	width: 90%;
+	margin: auto;
+}
+
+.big-image-container {
+	width: 100%;
+	float: none;
+	margin: auto;
+}
+
+.image-description-main-slider-container {
+	width: 100%;
+	border-top: 5px solid  #f26c4f;
+	border-left: none;
+	background-color: #373737;
+	position: relative;
+	font-family: "NexaBold";
+	color: white;
+	float: none;
+	margin: auto;
+	height: auto;
+}
+
+.image-description-main-slider-container:before {
+	border-top: 9px solid #f26c4f;
+	border-right: 9px solid transparent;
+	border-left: 9px solid transparent;
+	border-bottom: none;
+	top: 0;
+	left: 20%;
+}
+
+.triple-slider {
+	width: calc(100% + 20px);
+	margin-left: -10px;
+}
+
+#triple-slider-button-left {
+	left: -20px;
+}
+
+#triple-slider-button-right {
+	right: -20px;
+}
+
+#triple-slider-button-left:before {
+	font-size: 30pt;
+}
+
+#triple-slider-button-right:before {
+	font-size: 30pt;
+}
+
+.news-main-part {
+	width: 100%;
+	margin: auto;
+}
+
+.text-boxage {
+	padding: 30px;
+}
+
+.sidebar {
+	float: left;
+	width: 100%;
+	padding-left: 0;
+}
+
+.sidebar-artciles-list-article {
+}
+
+.sidebar-menu {
+	width: 300px;
+	margin: auto;
+}
+
+.sidebar-counters {
+	width: 300px;
+	margin: auto;
+}
+
+#bottom-logo {
+	height: 66px;
+	float: none;
+}
+
+}
